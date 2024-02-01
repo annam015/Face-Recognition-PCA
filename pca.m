@@ -2,8 +2,8 @@ pkg load statistics
 pkg load image
 
 projectPath = '';  # set your own proejct path
-imagesPath = ''; # set your own images path (projectPath + "\Images"
-databasePath = ''; # set your own database path (projectPath + "\Database"
+imagesPath = ''; # set your own images path (projectPath + "\Images")
+databasePath = ''; # set your own database path (projectPath + "\Database")
 
 cd(imagesPath);
 [selectedImageName, selectedImagePath] = uigetfile({'*.tif'});
