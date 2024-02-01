@@ -1,4 +1,4 @@
-# Face-Recognition-PCA
+# Face Recognition PCA
 
 This GNU Octave project applies Principal Component Analysis (PCA) for facial recognition. 
 
