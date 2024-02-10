@@ -33,3 +33,7 @@ To run the project:
 ## How It Works
 
 The `pca.m` script reads the image from the specified path, performs Principal Component Analysis to extract features and compares the selected image against the database to find the closest match.
+
+## Screenshots
+
+![pca](https://github.com/annam015/Face-Recognition-PCA/assets/92727258/5f8dee73-55ac-4c7e-84d5-c2abb9df5fdd)
